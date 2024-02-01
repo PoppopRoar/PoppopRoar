@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @PoppopRoar.
-- 👀 I’m interested in learning new skills, outdoor activites, cooking.
-- 🌱 I’m currently learning Data Analysitic, CyberSecurity, How to Edit Video and picture, Ice Skating
-- 😄 Pronouns: I am a 'She'
-- ⚡ Fun fact: Learning things can bright your day. Keep learning keep happy!
+I am planning to create a project to see what are the top 5 popular lunch for the students to have at school.
 
 <!---
 PoppopRoar/PoppopRoar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
